@@ -1,0 +1,12 @@
+{
+  "name": "style-ai",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "استایلیست من — offline Persian outfit-styling PWA",
+  "scripts": {
+    "test": "node --test tests/",
+    "e2e": "node tests/e2e.mjs",
+    "serve": "python3 -m http.server 8080"
+  }
+}

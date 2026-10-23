@@ -1,0 +1,19 @@
+{
+  "name": "استایلیست من",
+  "short_name": "استایلیست",
+  "description": "ست کردن لباس، کمد دیجیتال، فرم بدن و رنگ شخصی — آفلاین و خصوصی",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#faf7f4",
+  "theme_color": "#b4475f",
+  "categories": ["lifestyle", "shopping"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
